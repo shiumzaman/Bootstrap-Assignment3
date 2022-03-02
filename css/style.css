@@ -1,0 +1,11 @@
+h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+  color: #3d3d3d;
+  text-align: center;
+}
+.box {
+  min-height: 100px;
+  background-color: #badc58;
+  margin-bottom: 15px;
+}
